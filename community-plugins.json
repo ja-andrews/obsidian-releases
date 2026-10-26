@@ -66302,5 +66302,12 @@
     "author": "Moritz Wielers",
     "description": "Self-hosted sync for your vault with the Syncy server. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "zazikii/Syncy-Obsidian-Plugin"
+  },
+  {
+    "id": "privatus-analytics",
+    "name": "Privatus Analytics",
+    "author": "Privatus Analytics",
+    "description": "Show live website stats from Privatus Analytics in your notes, and insert a weekly traffic summary as Markdown.",
+    "repo": "Privatus-Analytics/obsidian-privatus-analytics"
   }
 ]
